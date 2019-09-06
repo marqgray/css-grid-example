@@ -1,5 +1,3 @@
-[TOC]
-
 # Grid Reference
 
 CSS grid layout or CSS grid is a technique in Cascading Style Sheets that allows web developers to create complex responsive web design layouts more easily and consistently across browsers. There have been other methods for controlling web page layout methods, such as tables, the box model, and CSS flex box. CSS grid is currently not an official standard (it is a W3C Candidate Recommendation) although it has been adopted by most major browsers. [Wikipedia](https://en.wikipedia.org/wiki/CSS_grid_layout)
